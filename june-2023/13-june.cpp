@@ -10,24 +10,15 @@ class Solution
 public:
     vector<int> kLargest(int arr[], int n, int k)
     {
-        // solution 2 (passed)
-
-        // A priority queue (pq) is declared using std::priority_queue with the element type int, internal container type vector<int>, and comparison function greater<int>. This sets up a min-heap, where the smallest element is always at the top of the queue.
-        priority_queue<int, vector<int>> pq;
-
+        // solution 3(passed)
         vector<int> ans;
         for (int i = 0; i < n; i++)
         {
-            pq.push(arr[i]);
+            ans.push_back(arr[i]);
         }
-        for (int i = 0; i < k; i++)
-        {
-            // cout << pq.top() << " ";
-            ans.push_back(pq.top());
-            pq.pop();
-        }
-
-        return ans;
+        sort(ans.begin(), ans.end());
+        reverse(ans.begin(), ans.end());
+        return vector<int>(ans.begin(), ans.begin() + k);
     }
 };
 
