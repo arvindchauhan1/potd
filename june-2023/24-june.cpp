@@ -18,7 +18,7 @@ public:
         for (int i = 0; i < n; i++)
         {
             string t = arr[i].substr(0, k);
-            cout << str.substr(0, k) << " == " << t << " = " << (str.substr(0, k) == t) << endl;
+            // cout << str.substr(0, k) << " == " << t << " = " << (str.substr(0, k) == t) << endl;
             if (str.substr(0, k) == t)
                 count++;
         }
