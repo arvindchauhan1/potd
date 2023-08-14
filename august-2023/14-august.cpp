@@ -17,7 +17,12 @@ public:
             if (m[nums[i]] == 1)
                 s.push_back(nums[i]);
         }
-        sort(s.begin(), s.end());
+        if (s[0] > s[1])
+        {
+            int t = s[0];
+            s[0] = s[1];
+            s[1] = t;
+        }
         return s;
     }
 };
