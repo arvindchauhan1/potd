@@ -1,10 +1,10 @@
 # GeeksforGeeks Problem of the Day
+### 🚀 Welcome to My Coding Playground 🖥️
+Explore my Git repository, a treasure trove of daily coding problem solutions using the mighty C++ language. Embark on a journey through diverse coding challenges, all elegantly conquered with the power of C++.
 
-Welcome to my Git repository! This repository serves as a collection of my daily coding problem solutions using C++. Here, you will find a diverse range of coding problems solved using the C++ programming language.
-
-### GFG Problem Solutions
-
-#### August 2023
+---
+<details open>
+<summary><strong>August 2023(click here to expand)</strong></summary>
 
 | Date            | GFG Problem                                                                                        | Solutions                                   |
 | --------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------- |
@@ -20,3 +20,5 @@ Welcome to my Git repository! This repository serves as a collection of my daily
 |                 |                                                                                                    | [Solution 2](./august-2023/06-august_2.cpp) |
 | August 05, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)        | [Solution](./august-2023/05-august.cpp)     |
 | August 04, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/reverse-a-stack/1)                           | [Solution](./august-2023/04-august.cpp)     |
+
+</details>
