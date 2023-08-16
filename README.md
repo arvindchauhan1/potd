@@ -8,7 +8,8 @@ Welcome to my Git repository! This repository serves as a collection of my daily
 
 | Date            | GFG Problem                                                                                        | Solutions                                   |
 | --------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| August 14, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1)                   | [Solution](./august-2023/14-august.cpp) |
+| August 15, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/flip-bits0240/1)                             | [Solution](./august-2023/15-august.cpp)     |
+| August 14, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1)                   | [Solution](./august-2023/14-august.cpp)     |
 | August 13, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/nth-fibonacci-number1335/1)                  | [Solution 1](./august-2023/13-august_1.cpp) |
 |                 |                                                                                                    | [Solution 2](./august-2023/13-august_2.cpp) |
 | August 12, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1) | [Solution](./august-2023/12-august.cpp)     |
