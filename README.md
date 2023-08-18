@@ -8,6 +8,7 @@ Explore my Git repository, a treasure trove of daily coding problem solutions us
 
 | Date            | GFG Problem                                                                                        | Solutions                                   |
 | --------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| August 18, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1)                    | [Solution](./august-2023/18-august.cpp)     |
 | August 17, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/next-smallest-palindrome4740/1)                    | [Solution](./august-2023/17-august.cpp)     |
 | August 16, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/nth-catalan-number0817/1)                    | [Solution](./august-2023/16-august.cpp)     |
 | August 15, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/flip-bits0240/1)                             | [Solution](./august-2023/15-august.cpp)     |
