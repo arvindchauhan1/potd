@@ -8,6 +8,8 @@ Explore my Git repository, a treasure trove of daily coding problem solutions us
 
 | Date            | GFG Problem                                                                                        | Solutions                                   |
 | --------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| August 20, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1) | [Solution 1](./august-2023/20-august_1.cpp) |
+|                 |                                                                                                    | [Solution 2](./august-2023/20-august_2.cpp) |
 | August 19, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1)                    | [Solution](./august-2023/19-august_2.cpp)     |
 | August 18, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1)                    | [Solution](./august-2023/18-august.cpp)     |
 | August 17, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/next-smallest-palindrome4740/1)                    | [Solution](./august-2023/17-august.cpp)     |
