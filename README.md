@@ -8,6 +8,7 @@ Explore my Git repository, a treasure trove of daily coding problem solutions us
 
 | Date            | GFG Problem                                                                                        | Solutions                                   |
 | --------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| August 21, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/surround-the-1s2505/1) | [Solution](./august-2023/21-august.cpp) |
 | August 20, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1) | [Solution 1](./august-2023/20-august_1.cpp) |
 |                 |                                                                                                    | [Solution 2](./august-2023/20-august_2.cpp) |
 | August 19, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1)                    | [Solution](./august-2023/19-august_2.cpp)     |
