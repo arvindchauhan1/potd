@@ -8,6 +8,7 @@ Explore my Git repository, a treasure trove of daily coding problem solutions us
 
 | Date            | GFG Problem                                                                                        | Solutions                                   |
 | --------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| August 29, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1) | [Solution](./august-2023/29-august.cpp) |
 | August 28, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1) | [Solution](./august-2023/28-august.cpp) |
 | August 27, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/reverse-a-string/1) | [Solution](./august-2023/27-august.cpp) |
 | August 25, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1) | [Solution](./august-2023/25-august.cpp) |
