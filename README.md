@@ -12,8 +12,12 @@ Explore my Git repository, a treasure trove of daily coding problem solutions us
 | September 01, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/leftmost-and-rightmost-nodes-of-binary-tree/1) | [Solution](./september-2023/01-september.cpp) |
 
 </details>
+
+---
+
 <details>
 <summary><strong>August 2023(click here to expand)</strong></summary>
+
 
 | Date            | GFG Problem                                                                                               | Solutions                                   |
 | --------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
