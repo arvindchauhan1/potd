@@ -8,6 +8,7 @@ Explore my Git repository, a treasure trove of daily coding problem solutions us
 
 | Date               | GFG Problem                                                                                          | Solutions                                     |
 | ------------------ | ---------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| September 03, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1)                 | [Solution](./september-2023/03-september.cpp) |
 | September 02, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/leaf-under-budget/1)                           | [Solution](./september-2023/02-september.cpp) |
 | September 01, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/leftmost-and-rightmost-nodes-of-binary-tree/1) | [Solution](./september-2023/01-september.cpp) |
 
