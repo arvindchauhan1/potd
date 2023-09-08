@@ -8,6 +8,11 @@ Explore my Git repository, a treasure trove of daily coding problem solutions us
 
 | Date               | GFG Problem                                                                                          | Solutions                                     |
 | ------------------ | ---------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| September 08, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/binary-tree-to-bst/1)                          | [Solution](./september-2023/08-september.cpp) |
+| September 07, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1)        | [Solution](./september-2023/07-september.cpp) |
+| September 06, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1)             | [Solution](./september-2023/06-september.cpp) |
+| September 05, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1)             | [Solution](./september-2023/05-september.cpp) |
+| September 04, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/replace-os-with-xs0052/1)                      | [Solution](./september-2023/04-september.cpp) |
 | September 03, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1)                 | [Solution](./september-2023/03-september.cpp) |
 | September 02, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/leaf-under-budget/1)                           | [Solution](./september-2023/02-september.cpp) |
 | September 01, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/leftmost-and-rightmost-nodes-of-binary-tree/1) | [Solution](./september-2023/01-september.cpp) |
