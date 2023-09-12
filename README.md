@@ -8,6 +8,7 @@ Explore my Git repository, a treasure trove of daily coding problem solutions us
 
 | Date               | GFG Problem                                                                                          | Solutions                                     |
 | ------------------ | ---------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| September 12, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/perfect-numbers3207/1)                         | [Solution](./september-2023/12-september.cpp) |
 | September 11, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/lucky-numbers2911/1)                           | [Solution](./september-2023/11-september.cpp) |
 | September 10, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1)                      | [Solution](./september-2023/10-september.cpp) |
 | September 09, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1)                  | [Solution](./september-2023/09-september.cpp) |
