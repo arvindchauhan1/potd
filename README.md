@@ -8,6 +8,9 @@ Explore my Git repository, a treasure trove of daily coding problem solutions us
 
 | Date               | GFG Problem                                                                                          | Solutions                                     |
 | ------------------ | ---------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| September 18, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1)                       | [Solution](./september-2023/18-september.cpp) |
+| September 17, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1)         | [Solution](./september-2023/17-september.cpp) |
+| September 15, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1)                      | [Solution](./september-2023/15-september.cpp) |
 | September 14, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1)                     | [Solution](./september-2023/14-september.cpp) |
 | September 13, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/largest-number-possible5028/1)                 | [Solution](./september-2023/13-september.cpp) |
 | September 12, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/perfect-numbers3207/1)                         | [Solution](./september-2023/12-september.cpp) |
