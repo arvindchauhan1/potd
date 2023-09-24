@@ -8,6 +8,7 @@ Explore my Git repository, a treasure trove of daily coding problem solutions us
 
 | Date               | GFG Problem                                                                                          | Solutions                                     |
 | ------------------ | ---------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| September 24, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1)                 | [Solution](./september-2023/24-september.cpp) |
 | September 23, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1)                | [Solution](./september-2023/23-september.cpp) |
 | September 19, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1)               | [Solution](./september-2023/19-september.cpp) |
 | September 18, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1)                       | [Solution](./september-2023/18-september.cpp) |
