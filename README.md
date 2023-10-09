@@ -8,6 +8,7 @@ Explore my Git repository, a treasure trove of daily coding problem solutions us
 
 | Date             | GFG Problem                                                                      | Solutions                                     |
 | ---------------- | -------------------------------------------------------------------------------- | --------------------------------------------- |
+| October 09, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)   | [Solution](./10-2023(october)/09-october.cpp) |
 | October 08, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/insert-in-a-sorted-list/1) | [Solution](./10-2023(october)/08-october.cpp) |
 
 </details>
