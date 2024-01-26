@@ -3,7 +3,19 @@
 Explore my Git repository, a treasure trove of daily coding problem solutions using the mighty C++ language. Embark on a journey through diverse coding challenges, all elegantly conquered with the power of C++.
 
 ---
+
 <details open>
+<summary><strong>January 2024(click here to expand)</strong></summary>
+
+| Date             | GFG Problem                                                                    | Solutions                                       |
+| ---------------- | ------------------------------------------------------------------------------ | ----------------------------------------------- |
+| January 26, 2024 | [Problem](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | [Solution](<./01-2024(january)/26-january.cpp>) |
+
+</details>
+
+
+---
+<details>
 <summary><strong>October 2023(click here to expand)</strong></summary>
 
 | Date             | GFG Problem                                                                      | Solutions                                     |
