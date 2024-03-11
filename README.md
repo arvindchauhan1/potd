@@ -11,7 +11,7 @@ Explore my Git repository, a treasure trove of daily coding problem solutions us
 
 | Date           | GFG Problem                                                                        | Solutions                                   |
 | -------------- | ---------------------------------------------------------------------------------- | ------------------------------------------- |
-| March 11, 2024 | [Problem](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | [Solution](<./03-2024(march)/11-march.cpp>) |
+| March 11, 2024 | [Problem](https://www.geeksforgeeks.org/problems/count-pairs-sum-in-matrices4332/1) | [Solution](<./03-2024(march)/11-march.cpp>) |
 
 </details>
 
