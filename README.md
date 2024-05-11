@@ -6,6 +6,10 @@ Explore my Git repository, a treasure trove of daily coding problem solutions us
 
 ---
 
+#2024 ❤️‍🔥
+
+<details open>
+<summary><strong>2024 (click here to expand)</strong></summary>
 <details open>
 <summary><strong>March 2024(click here to expand)</strong></summary>
 
@@ -17,7 +21,7 @@ Explore my Git repository, a treasure trove of daily coding problem solutions us
 
 ---
 
-<details open>
+<details>
 <summary><strong>January 2024(click here to expand)</strong></summary>
 
 | Date             | GFG Problem                                                                        | Solutions                                            |
@@ -25,8 +29,14 @@ Explore my Git repository, a treasure trove of daily coding problem solutions us
 | January 26, 2024 | [Problem](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | [Solution](<./2024/01-2024(january)/26-january.cpp>) |
 
 </details>
+</details>
 
 ---
+
+##2023 🔥
+
+<details>
+<summary><strong>2023(click here to expand)</strong></summary>
 
 <details>
 <summary><strong>October 2023(click here to expand)</strong></summary>
@@ -103,5 +113,7 @@ Explore my Git repository, a treasure trove of daily coding problem solutions us
 |                 |                                                                                                           | [Solution 2](<./2023/08-2023(august)/06-august_2.cpp>) |
 | August 05, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)               | [Solution](<./2023/08-2023(august)/05-august.cpp>)     |
 | August 04, 2023 | [Problem](https://practice.geeksforgeeks.org/problems/reverse-a-stack/1)                                  | [Solution](<./2023/08-2023(august)/04-august.cpp>)     |
+
+</details>
 
 </details>
