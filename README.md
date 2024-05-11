@@ -10,7 +10,19 @@ Explore my Git repository, a treasure trove of daily coding problem solutions us
 
 <details open>
 <summary><strong>2024 (click here to expand)</strong></summary>
+
 <details open>
+<summary><strong>May 2024(click here to expand)</strong></summary>
+
+| Date         | GFG Problem                                                              | Solutions                                    |
+| ------------ | ------------------------------------------------------------------------ | -------------------------------------------- |
+| May 11, 2024 | [Problem](https://www.geeksforgeeks.org/problems/juggler-sequence3930/1) | [Solution](<./2024/05-2024(may)/11-may.cpp>) |
+
+</details>
+
+---
+
+<details>
 <summary><strong>March 2024(click here to expand)</strong></summary>
 
 | Date           | GFG Problem                                                                         | Solutions                                        |
